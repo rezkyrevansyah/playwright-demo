@@ -27,7 +27,7 @@ node --version
 ### Langkah 1 — Clone atau Download Project
 
 ```bash
-git clone <url-repository-ini>
+git clone https://github.com/rezkyrevansyah/playwright-demo.git
 cd playwright-demo
 ```
 
